@@ -1,1 +1,1 @@
-# email_app
+# Email App with Java
